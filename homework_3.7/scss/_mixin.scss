@@ -1,0 +1,6 @@
+@mixin globalbtn {
+    background: var(--color, #2995e2);
+    color: #fff;
+    border: 0;
+    font-weight: 600;
+}
